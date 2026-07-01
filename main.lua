@@ -2,7 +2,7 @@ print("@l.u.a.u on discord.")
 
 if game.PlaceId == 142823291 then
     print("Loading: Murder Mystery 2.")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/DoliScriptz/LuWare/games/mm2.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/DoliScriptz/LuWare/refs/heads/main/games/mm2.lua"))()
 else
     local r = "Unsupported Game."
 
